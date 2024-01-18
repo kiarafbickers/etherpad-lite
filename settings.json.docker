@@ -240,7 +240,7 @@
     "alwaysShowChat": "${PAD_OPTIONS_ALWAYS_SHOW_CHAT:false}",
     "chatAndUsers": "${PAD_OPTIONS_CHAT_AND_USERS:false}",
     "lang": "${PAD_OPTIONS_LANG:null}",
-    "ep_markdown_default": true // Add this line inside the "padOptions" object
+    "ep_markdown_default": true, // Add this line inside the "padOptions" object
   },
 
   /*
